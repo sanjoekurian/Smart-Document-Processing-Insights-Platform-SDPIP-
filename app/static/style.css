@@ -1,0 +1,34 @@
+/* Custom styles in addition to Tailwind CSS */
+
+.custom-shadow {
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.custom-transition {
+    transition: all 0.3s ease;
+}
+
+.custom-hover:hover {
+    transform: translateY(-2px);
+}
+
+/* Custom animations */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+.fade-in {
+    animation: fadeIn 0.5s ease-in;
+}
+
+/* Custom form styles */
+.custom-input:focus {
+    outline: none;
+    ring: 2px;
+    ring-color: #3B82F6;
+} 

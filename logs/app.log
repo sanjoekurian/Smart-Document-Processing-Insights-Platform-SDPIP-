@@ -1,0 +1,301 @@
+2025-05-04 15:15:00,456 - app.main - INFO - File uploaded successfully: 20250504_151500_9ea8feb3.pdf
+2025-05-04 15:15:01,344 - httpx - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-04 15:15:10,757 - httpx - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-04 15:15:14,223 - app.services.openai_service - ERROR - Error analyzing sentiment: invalid syntax (<string>, line 1)
+2025-05-04 15:15:14,223 - app.main - ERROR - Error processing document: Failed to analyze sentiment: invalid syntax (<string>, line 1)
+2025-05-04 15:16:26,490 - app.main - INFO - File uploaded successfully: 20250504_151626_d88d3203.pdf
+2025-05-04 15:16:27,627 - httpx - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-04 15:16:36,921 - httpx - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-04 15:16:39,916 - app.services.report_generator - INFO - Report generated successfully: reports\report_20250504_151626_d88d3203.pdf
+2025-05-04 15:16:48,044 - app.main - INFO - File uploaded successfully: 20250504_151648_74ed4cf2.pdf
+2025-05-04 15:16:48,612 - httpx - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-04 15:16:59,817 - httpx - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-04 15:17:02,551 - app.services.report_generator - INFO - Report generated successfully: reports\report_20250504_151648_74ed4cf2.pdf
+2025-05-04 15:20:46,713 - app.main - INFO - File uploaded successfully: 20250504_152046_99dab0e5.pdf
+2025-05-04 15:20:47,405 - httpx - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-04 15:20:56,289 - httpx - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-04 15:20:58,795 - app.services.report_generator - INFO - Report generated successfully: reports\report_20250504_152046_99dab0e5.pdf
+2025-05-04 15:25:13,127 - app.main - INFO - File uploaded successfully: 20250504_152513_7f0e128a.pdf
+2025-05-04 15:25:14,295 - httpx - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-04 15:25:26,418 - httpx - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-04 15:25:30,020 - app.services.report_generator - INFO - Report generated successfully: reports\report_20250504_152513_7f0e128a.pdf
+2025-05-04 19:49:23,398 - app.main - INFO - File uploaded successfully: 20250504_194923_8c36a4be.pdf
+2025-05-04 19:49:24,242 - httpx - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-04 19:49:40,217 - httpx - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-04 19:49:44,969 - app.services.report_generator - INFO - Report generated successfully: reports\report_20250504_194923_8c36a4be.pdf
+2025-05-04 20:19:30,880 - app.main - INFO - File uploaded successfully: 20250504_201930_cf2bc223.pdf
+2025-05-04 20:19:32,102 - httpx - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-04 20:19:50,724 - httpx - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-04 20:19:53,492 - app.services.report_generator - INFO - Report generated successfully: reports\report_20250504_201930_cf2bc223.pdf
+2025-05-04 20:26:11,197 - app.main - INFO - File uploaded successfully: 20250504_202611_3df1e81d.pdf
+2025-05-04 20:26:12,388 - httpx - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-04 20:26:26,291 - httpx - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-04 20:26:33,996 - app.services.report_generator - INFO - Report generated successfully: reports\report_20250504_202611_3df1e81d.pdf
+2025-05-04 20:29:16,100 - app.main - INFO - File uploaded successfully: 20250504_202916_38500163.pdf
+2025-05-04 20:29:17,464 - httpx - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-04 20:29:29,481 - httpx - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-04 20:29:34,958 - app.services.report_generator - INFO - Report generated successfully: reports\report_20250504_202916_38500163.pdf
+2025-05-04 20:29:43,614 - httpx - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-04 20:29:44,771 - app.main - ERROR - Error in chat endpoint: Error generating chat response: 'NoneType' object is not subscriptable
+2025-05-04 20:31:04,787 - app.main - INFO - File uploaded successfully: 20250504_203104_d6539cba.pdf
+2025-05-04 20:31:05,619 - httpx - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-04 20:31:23,553 - httpx - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-04 20:31:28,040 - app.services.report_generator - INFO - Report generated successfully: reports\report_20250504_203104_d6539cba.pdf
+2025-05-04 20:31:36,250 - httpx - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-04 20:31:39,014 - app.services.openai_service - ERROR - Error in generate_chat_response: 'NoneType' object is not subscriptable
+2025-05-04 20:31:39,015 - app.main - ERROR - Error in chat endpoint: Error generating chat response: 'NoneType' object is not subscriptable
+2025-05-04 20:34:21,180 - app.main - INFO - Application starting up...
+2025-05-04 20:34:21,180 - app.main - INFO - Base directory: C:\Users\sanjo\OneDrive\Desktop\Codebase\sdpip
+2025-05-04 20:34:21,181 - app.main - INFO - Storage directory: C:\Users\sanjo\OneDrive\Desktop\Codebase\sdpip\storage
+2025-05-04 20:42:00,178 - app.main - INFO - Processing upload for file: Guide to Effective Prompt Engineering for Developers.pdf (ID: 61f40e61-2eec-4c3d-9aeb-5d9600147979)
+2025-05-04 20:42:00,179 - app.main - INFO - File saved successfully: 20250504_204200_61f40e61.pdf
+2025-05-04 20:42:00,295 - app.main - INFO - Document processed successfully
+2025-05-04 20:42:01,411 - httpx - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-04 20:42:23,205 - httpx - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-04 20:42:26,793 - app.main - INFO - AI analysis completed
+2025-05-04 20:42:26,794 - app.services.document_storage - INFO - Saving document 61f40e61-2eec-4c3d-9aeb-5d9600147979 to C:\Users\sanjo\OneDrive\Desktop\Codebase\sdpip\storage\documents\61f40e61-2eec-4c3d-9aeb-5d9600147979.json
+2025-05-04 20:42:26,798 - app.services.document_storage - INFO - Successfully saved document 61f40e61-2eec-4c3d-9aeb-5d9600147979
+2025-05-04 20:42:26,799 - app.main - INFO - Document 61f40e61-2eec-4c3d-9aeb-5d9600147979 saved to storage
+2025-05-04 20:42:26,890 - app.services.report_generator - INFO - Report generated successfully: C:\Users\sanjo\OneDrive\Desktop\Codebase\sdpip\reports\report_20250504_204200_61f40e61.pdf
+2025-05-04 20:42:26,891 - app.main - INFO - Report generated successfully
+2025-05-04 20:42:38,419 - app.main - INFO - Processing chat request for document: 61f40e61-2eec-4c3d-9aeb-5d9600147979
+2025-05-04 20:42:38,420 - app.services.document_storage - INFO - Attempting to retrieve document 61f40e61-2eec-4c3d-9aeb-5d9600147979 from C:\Users\sanjo\OneDrive\Desktop\Codebase\sdpip\storage\documents\61f40e61-2eec-4c3d-9aeb-5d9600147979.json
+2025-05-04 20:42:38,438 - app.services.document_storage - INFO - Successfully retrieved document 61f40e61-2eec-4c3d-9aeb-5d9600147979
+2025-05-04 20:42:38,438 - app.main - INFO - Generating chat response
+2025-05-04 20:42:38,827 - httpx - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-04 20:42:41,800 - app.services.openai_service - ERROR - Error in generate_chat_response: 'NoneType' object is not subscriptable
+2025-05-04 20:42:41,801 - app.main - ERROR - Error in chat endpoint: Error generating chat response: 'NoneType' object is not subscriptable
+2025-05-04 20:45:43,281 - app.main - INFO - Application starting up...
+2025-05-04 20:45:43,281 - app.main - INFO - Base directory: C:\Users\sanjo\OneDrive\Desktop\Codebase\sdpip
+2025-05-04 20:45:43,282 - app.main - INFO - Storage directory: C:\Users\sanjo\OneDrive\Desktop\Codebase\sdpip\storage
+2025-05-04 20:46:16,576 - app.main - INFO - Processing upload for file: Guide to Effective Prompt Engineering for Developers.pdf (ID: 4fc16709-ea38-4312-8ae1-421f2ae71466)
+2025-05-04 20:46:16,578 - app.main - INFO - File saved successfully: 20250504_204616_4fc16709.pdf
+2025-05-04 20:46:16,648 - app.main - INFO - Document processed successfully
+2025-05-04 20:46:16,648 - app.main - INFO - Extracted text length: 42796
+2025-05-04 20:46:16,649 - app.services.openai_service - INFO - Sending summary generation request to OpenAI
+2025-05-04 20:46:17,609 - httpx - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-04 20:46:26,978 - app.services.openai_service - INFO - Successfully generated summary
+2025-05-04 20:46:26,980 - app.services.openai_service - INFO - Sending sentiment analysis request to OpenAI
+2025-05-04 20:46:27,087 - httpx - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-04 20:46:30,903 - app.services.openai_service - INFO - Attempting to parse sentiment response
+2025-05-04 20:46:30,904 - app.main - INFO - AI analysis completed
+2025-05-04 20:46:30,904 - app.services.document_storage - INFO - Saving document 4fc16709-ea38-4312-8ae1-421f2ae71466 to C:\Users\sanjo\OneDrive\Desktop\Codebase\sdpip\storage\documents\4fc16709-ea38-4312-8ae1-421f2ae71466.json
+2025-05-04 20:46:30,907 - app.services.document_storage - INFO - Successfully saved document 4fc16709-ea38-4312-8ae1-421f2ae71466
+2025-05-04 20:46:30,907 - app.main - INFO - Document 4fc16709-ea38-4312-8ae1-421f2ae71466 saved to storage successfully
+2025-05-04 20:46:30,959 - app.services.report_generator - INFO - Report generated successfully: C:\Users\sanjo\OneDrive\Desktop\Codebase\sdpip\reports\report_20250504_204616_4fc16709.pdf
+2025-05-04 20:46:30,959 - app.main - INFO - Report generated successfully
+2025-05-04 20:46:47,602 - app.main - INFO - Processing chat request for document: 4fc16709-ea38-4312-8ae1-421f2ae71466
+2025-05-04 20:46:47,603 - app.services.document_storage - INFO - Attempting to retrieve document 4fc16709-ea38-4312-8ae1-421f2ae71466 from C:\Users\sanjo\OneDrive\Desktop\Codebase\sdpip\storage\documents\4fc16709-ea38-4312-8ae1-421f2ae71466.json
+2025-05-04 20:46:47,619 - app.services.document_storage - INFO - Successfully retrieved document 4fc16709-ea38-4312-8ae1-421f2ae71466
+2025-05-04 20:46:47,620 - app.main - INFO - Retrieved document context. Text length: 42796
+2025-05-04 20:46:47,620 - app.main - INFO - Generating chat response
+2025-05-04 20:46:47,621 - app.services.openai_service - INFO - Sending chat completion request to OpenAI
+2025-05-04 20:46:47,986 - httpx - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-04 20:46:50,952 - app.services.openai_service - INFO - Received response from OpenAI
+2025-05-04 20:46:50,953 - app.services.openai_service - ERROR - Empty response from OpenAI
+2025-05-04 20:46:50,954 - app.services.openai_service - ERROR - Error in generate_chat_response: Empty response from OpenAI
+2025-05-04 20:46:50,955 - app.services.openai_service - ERROR - Document context keys: ['text', 'metadata', 'summary', 'sentiment', 'filename', 'upload_time', 'pii_findings', 'file_type', 'processed_file']
+2025-05-04 20:46:50,955 - app.main - ERROR - Error in chat endpoint: Error generating chat response: Empty response from OpenAI
+2025-05-04 20:49:47,117 - app.main - INFO - Application starting up...
+2025-05-04 20:49:47,118 - app.main - INFO - Base directory: C:\Users\sanjo\OneDrive\Desktop\Codebase\sdpip
+2025-05-04 20:49:47,118 - app.main - INFO - Storage directory: C:\Users\sanjo\OneDrive\Desktop\Codebase\sdpip\storage
+2025-05-04 20:50:09,339 - app.main - INFO - Processing upload for file: Guide to Effective Prompt Engineering for Developers.pdf (ID: fd4b92d8-c184-488c-b08f-65863abb2c9c)
+2025-05-04 20:50:09,341 - app.main - INFO - File saved successfully: 20250504_205009_fd4b92d8.pdf
+2025-05-04 20:50:09,450 - app.main - INFO - Document processed successfully
+2025-05-04 20:50:09,450 - app.main - INFO - Extracted text length: 42796
+2025-05-04 20:50:09,450 - app.services.openai_service - INFO - Sending summary generation request to OpenAI
+2025-05-04 20:50:09,451 - app.services.openai_service - ERROR - Error generating summary: Completions.create() got an unexpected keyword argument 'headers'
+2025-05-04 20:50:09,451 - app.main - ERROR - Error processing document: Failed to generate summary: Completions.create() got an unexpected keyword argument 'headers'
+2025-05-04 20:51:50,153 - app.main - INFO - Application starting up...
+2025-05-04 20:51:50,153 - app.main - INFO - Base directory: C:\Users\sanjo\OneDrive\Desktop\Codebase\sdpip
+2025-05-04 20:51:50,154 - app.main - INFO - Storage directory: C:\Users\sanjo\OneDrive\Desktop\Codebase\sdpip\storage
+2025-05-04 20:52:28,817 - app.main - INFO - Processing upload for file: Guide to Effective Prompt Engineering for Developers.pdf (ID: 3365f6fe-73fa-4820-bbe1-82f7828c5177)
+2025-05-04 20:52:28,820 - app.main - INFO - File saved successfully: 20250504_205228_3365f6fe.pdf
+2025-05-04 20:52:28,930 - app.main - INFO - Document processed successfully
+2025-05-04 20:52:28,931 - app.main - INFO - Extracted text length: 42796
+2025-05-04 20:52:28,931 - app.services.openai_service - INFO - Sending summary generation request to OpenAI
+2025-05-04 20:52:29,990 - httpx - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-04 20:52:36,661 - app.services.openai_service - INFO - Successfully generated summary
+2025-05-04 20:52:36,664 - app.services.openai_service - INFO - Sending sentiment analysis request to OpenAI
+2025-05-04 20:52:36,791 - httpx - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-04 20:52:40,101 - app.services.openai_service - INFO - Attempting to parse sentiment response
+2025-05-04 20:52:40,102 - app.main - INFO - AI analysis completed
+2025-05-04 20:52:40,103 - app.services.document_storage - INFO - Saving document 3365f6fe-73fa-4820-bbe1-82f7828c5177 to C:\Users\sanjo\OneDrive\Desktop\Codebase\sdpip\storage\documents\3365f6fe-73fa-4820-bbe1-82f7828c5177.json
+2025-05-04 20:52:40,108 - app.services.document_storage - INFO - Successfully saved document 3365f6fe-73fa-4820-bbe1-82f7828c5177
+2025-05-04 20:52:40,109 - app.main - INFO - Document 3365f6fe-73fa-4820-bbe1-82f7828c5177 saved to storage successfully
+2025-05-04 20:52:40,185 - app.services.report_generator - INFO - Report generated successfully: C:\Users\sanjo\OneDrive\Desktop\Codebase\sdpip\reports\report_20250504_205228_3365f6fe.pdf
+2025-05-04 20:52:40,186 - app.main - INFO - Report generated successfully
+2025-05-04 20:52:40,199 - app.main - INFO - Processing upload for file: Guide to Effective Prompt Engineering for Developers.pdf (ID: 4ecdeac9-22e0-4c0e-a2d3-0dd36e41f6c0)
+2025-05-04 20:52:40,200 - app.main - INFO - File saved successfully: 20250504_205240_4ecdeac9.pdf
+2025-05-04 20:52:40,307 - app.main - INFO - Document processed successfully
+2025-05-04 20:52:40,308 - app.main - INFO - Extracted text length: 42796
+2025-05-04 20:52:40,308 - app.services.openai_service - INFO - Sending summary generation request to OpenAI
+2025-05-04 20:52:40,653 - httpx - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-04 20:52:45,987 - app.services.openai_service - INFO - Successfully generated summary
+2025-05-04 20:52:45,989 - app.services.openai_service - INFO - Sending sentiment analysis request to OpenAI
+2025-05-04 20:52:46,109 - httpx - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-04 20:52:49,475 - app.services.openai_service - INFO - Attempting to parse sentiment response
+2025-05-04 20:52:49,476 - app.main - INFO - AI analysis completed
+2025-05-04 20:52:49,476 - app.services.document_storage - INFO - Saving document 4ecdeac9-22e0-4c0e-a2d3-0dd36e41f6c0 to C:\Users\sanjo\OneDrive\Desktop\Codebase\sdpip\storage\documents\4ecdeac9-22e0-4c0e-a2d3-0dd36e41f6c0.json
+2025-05-04 20:52:49,481 - app.services.document_storage - INFO - Successfully saved document 4ecdeac9-22e0-4c0e-a2d3-0dd36e41f6c0
+2025-05-04 20:52:49,482 - app.main - INFO - Document 4ecdeac9-22e0-4c0e-a2d3-0dd36e41f6c0 saved to storage successfully
+2025-05-04 20:52:49,510 - app.services.report_generator - INFO - Report generated successfully: C:\Users\sanjo\OneDrive\Desktop\Codebase\sdpip\reports\report_20250504_205240_4ecdeac9.pdf
+2025-05-04 20:52:49,510 - app.main - INFO - Report generated successfully
+2025-05-04 20:52:53,560 - app.main - INFO - Processing chat request for document: 4ecdeac9-22e0-4c0e-a2d3-0dd36e41f6c0
+2025-05-04 20:52:53,560 - app.services.document_storage - INFO - Attempting to retrieve document 4ecdeac9-22e0-4c0e-a2d3-0dd36e41f6c0 from C:\Users\sanjo\OneDrive\Desktop\Codebase\sdpip\storage\documents\4ecdeac9-22e0-4c0e-a2d3-0dd36e41f6c0.json
+2025-05-04 20:52:53,579 - app.services.document_storage - INFO - Successfully retrieved document 4ecdeac9-22e0-4c0e-a2d3-0dd36e41f6c0
+2025-05-04 20:52:53,579 - app.main - INFO - Retrieved document context. Text length: 42796
+2025-05-04 20:52:53,579 - app.main - INFO - Generating chat response
+2025-05-04 20:52:53,580 - app.services.openai_service - INFO - Sending chat completion request to OpenAI
+2025-05-04 20:52:53,698 - httpx - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-04 20:52:57,314 - app.services.openai_service - INFO - Received response from OpenAI
+2025-05-04 20:52:57,315 - app.services.openai_service - INFO - Successfully extracted response content
+2025-05-04 20:52:57,316 - app.main - INFO - Chat response generated successfully
+2025-05-04 20:53:08,838 - app.main - INFO - Processing chat request for document: 4ecdeac9-22e0-4c0e-a2d3-0dd36e41f6c0
+2025-05-04 20:53:08,839 - app.services.document_storage - INFO - Attempting to retrieve document 4ecdeac9-22e0-4c0e-a2d3-0dd36e41f6c0 from C:\Users\sanjo\OneDrive\Desktop\Codebase\sdpip\storage\documents\4ecdeac9-22e0-4c0e-a2d3-0dd36e41f6c0.json
+2025-05-04 20:53:08,841 - app.services.document_storage - INFO - Successfully retrieved document 4ecdeac9-22e0-4c0e-a2d3-0dd36e41f6c0
+2025-05-04 20:53:08,842 - app.main - INFO - Retrieved document context. Text length: 42796
+2025-05-04 20:53:08,842 - app.main - INFO - Generating chat response
+2025-05-04 20:53:08,843 - app.services.openai_service - INFO - Sending chat completion request to OpenAI
+2025-05-04 20:53:09,027 - httpx - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-04 20:53:13,424 - app.services.openai_service - INFO - Received response from OpenAI
+2025-05-04 20:53:13,425 - app.services.openai_service - INFO - Successfully extracted response content
+2025-05-04 20:53:13,425 - app.main - INFO - Chat response generated successfully
+2025-05-04 20:56:36,017 - app.main - INFO - Application starting up...
+2025-05-04 20:56:36,017 - app.main - INFO - Base directory: C:\Users\sanjo\OneDrive\Desktop\Codebase\sdpip
+2025-05-04 20:56:36,018 - app.main - INFO - Storage directory: C:\Users\sanjo\OneDrive\Desktop\Codebase\sdpip\storage
+2025-05-04 20:56:58,193 - app.main - INFO - Processing upload for file: Guide to Effective Prompt Engineering for Developers.pdf (ID: e9cb14b0-15b8-4f6f-b4b7-f85f3e233c06)
+2025-05-04 20:56:58,194 - app.main - INFO - File saved successfully: 20250504_205658_e9cb14b0.pdf
+2025-05-04 20:56:58,313 - app.main - INFO - Document processed successfully
+2025-05-04 20:56:58,313 - app.main - INFO - Extracted text length: 42796
+2025-05-04 20:56:58,313 - app.services.openai_service - INFO - Sending summary generation request to OpenAI
+2025-05-04 20:56:58,764 - httpx - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-04 20:57:04,728 - app.services.openai_service - INFO - Successfully generated summary
+2025-05-04 20:57:04,730 - app.services.openai_service - INFO - Sending sentiment analysis request to OpenAI
+2025-05-04 20:57:04,896 - httpx - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-04 20:57:08,709 - app.services.openai_service - INFO - Attempting to parse sentiment response
+2025-05-04 20:57:08,710 - app.main - INFO - AI analysis completed
+2025-05-04 20:57:08,710 - app.services.document_storage - INFO - Saving document e9cb14b0-15b8-4f6f-b4b7-f85f3e233c06 to C:\Users\sanjo\OneDrive\Desktop\Codebase\sdpip\storage\documents\e9cb14b0-15b8-4f6f-b4b7-f85f3e233c06.json
+2025-05-04 20:57:08,716 - app.services.document_storage - INFO - Successfully saved document e9cb14b0-15b8-4f6f-b4b7-f85f3e233c06
+2025-05-04 20:57:08,717 - app.main - INFO - Document e9cb14b0-15b8-4f6f-b4b7-f85f3e233c06 saved to storage successfully
+2025-05-04 20:57:08,732 - app.services.report_generator - ERROR - Error generating report: Cannot use WindowsPath('C:/Users/sanjo/OneDrive/Desktop/Codebase/sdpip/reports/report_20250504_205658_e9cb14b0.pdf') as a filename or file
+2025-05-04 20:57:08,733 - app.main - ERROR - Error processing document: Failed to generate report: Cannot use WindowsPath('C:/Users/sanjo/OneDrive/Desktop/Codebase/sdpip/reports/report_20250504_205658_e9cb14b0.pdf') as a filename or file
+2025-05-04 20:58:30,753 - app.main - INFO - Application starting up...
+2025-05-04 20:58:30,753 - app.main - INFO - Base directory: C:\Users\sanjo\OneDrive\Desktop\Codebase\sdpip
+2025-05-04 20:58:30,754 - app.main - INFO - Storage directory: C:\Users\sanjo\OneDrive\Desktop\Codebase\sdpip\storage
+2025-05-04 20:58:46,055 - app.main - INFO - Processing upload for file: Guide to Effective Prompt Engineering for Developers.pdf (ID: 5317c290-533a-485e-a016-736773b3efea)
+2025-05-04 20:58:46,057 - app.main - INFO - File saved successfully: 20250504_205846_5317c290.pdf
+2025-05-04 20:58:46,169 - app.main - INFO - Document processed successfully
+2025-05-04 20:58:46,169 - app.main - INFO - Extracted text length: 42796
+2025-05-04 20:58:46,172 - app.services.openai_service - INFO - Sending summary generation request to OpenAI
+2025-05-04 20:58:46,800 - httpx - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-04 20:58:54,820 - app.services.openai_service - INFO - Successfully generated summary
+2025-05-04 20:58:54,823 - app.services.openai_service - INFO - Sending sentiment analysis request to OpenAI
+2025-05-04 20:58:55,079 - httpx - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-04 20:58:58,365 - app.services.openai_service - INFO - Attempting to parse sentiment response
+2025-05-04 20:58:58,365 - app.main - INFO - AI analysis completed
+2025-05-04 20:58:58,367 - app.services.document_storage - INFO - Saving document 5317c290-533a-485e-a016-736773b3efea to C:\Users\sanjo\OneDrive\Desktop\Codebase\sdpip\storage\documents\5317c290-533a-485e-a016-736773b3efea.json
+2025-05-04 20:58:58,372 - app.services.document_storage - INFO - Successfully saved document 5317c290-533a-485e-a016-736773b3efea
+2025-05-04 20:58:58,372 - app.main - INFO - Document 5317c290-533a-485e-a016-736773b3efea saved to storage successfully
+2025-05-04 20:58:58,448 - app.services.report_generator - INFO - Report generated successfully: C:\Users\sanjo\OneDrive\Desktop\Codebase\sdpip\reports\report_20250504_205846_5317c290.pdf
+2025-05-04 20:58:58,449 - app.main - INFO - Report generated successfully
+2025-05-04 21:00:50,054 - app.main - INFO - Application starting up...
+2025-05-04 21:00:50,055 - app.main - INFO - Base directory: C:\Users\sanjo\OneDrive\Desktop\Codebase\sdpip
+2025-05-04 21:00:50,055 - app.main - INFO - Storage directory: C:\Users\sanjo\OneDrive\Desktop\Codebase\sdpip\storage
+2025-05-04 21:01:10,713 - app.main - INFO - Processing upload for file: Guide to Effective Prompt Engineering for Developers.pdf (ID: 666e829c-9c6b-4f9d-ae96-06fb961cf9bc)
+2025-05-04 21:01:10,715 - app.main - INFO - File saved successfully: 20250504_210110_666e829c.pdf
+2025-05-04 21:01:10,846 - app.main - INFO - Document processed successfully
+2025-05-04 21:01:10,847 - app.main - INFO - Extracted text length: 42796
+2025-05-04 21:01:10,847 - app.services.openai_service - INFO - Sending summary generation request to OpenAI
+2025-05-04 21:01:11,650 - httpx - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-04 21:01:19,333 - app.services.openai_service - INFO - Successfully generated summary
+2025-05-04 21:01:19,336 - app.services.openai_service - INFO - Sending sentiment analysis request to OpenAI
+2025-05-04 21:01:19,562 - httpx - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-04 21:01:22,531 - app.services.openai_service - INFO - Attempting to parse sentiment response
+2025-05-04 21:01:22,532 - app.main - INFO - AI analysis completed
+2025-05-04 21:01:22,532 - app.services.document_storage - INFO - Saving document 666e829c-9c6b-4f9d-ae96-06fb961cf9bc to C:\Users\sanjo\OneDrive\Desktop\Codebase\sdpip\storage\documents\666e829c-9c6b-4f9d-ae96-06fb961cf9bc.json
+2025-05-04 21:01:22,537 - app.services.document_storage - INFO - Successfully saved document 666e829c-9c6b-4f9d-ae96-06fb961cf9bc
+2025-05-04 21:01:22,537 - app.main - INFO - Document 666e829c-9c6b-4f9d-ae96-06fb961cf9bc saved to storage successfully
+2025-05-04 21:01:22,609 - app.services.report_generator - INFO - Report generated successfully: C:\Users\sanjo\OneDrive\Desktop\Codebase\sdpip\reports\report_20250504_210110_666e829c.pdf
+2025-05-04 21:01:22,610 - app.main - INFO - Report generated successfully
+2025-05-04 21:02:17,854 - app.main - INFO - Processing chat request for document: 666e829c-9c6b-4f9d-ae96-06fb961cf9bc
+2025-05-04 21:02:17,855 - app.services.document_storage - INFO - Attempting to retrieve document 666e829c-9c6b-4f9d-ae96-06fb961cf9bc from C:\Users\sanjo\OneDrive\Desktop\Codebase\sdpip\storage\documents\666e829c-9c6b-4f9d-ae96-06fb961cf9bc.json
+2025-05-04 21:02:17,873 - app.services.document_storage - INFO - Successfully retrieved document 666e829c-9c6b-4f9d-ae96-06fb961cf9bc
+2025-05-04 21:02:17,874 - app.main - INFO - Retrieved document context. Text length: 42796
+2025-05-04 21:02:17,874 - app.main - INFO - Generating chat response
+2025-05-04 21:02:17,875 - app.services.openai_service - INFO - Sending chat completion request to OpenAI
+2025-05-04 21:02:18,226 - httpx - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-04 21:02:29,366 - app.services.openai_service - INFO - Received response from OpenAI
+2025-05-04 21:02:29,367 - app.services.openai_service - INFO - Successfully extracted response content
+2025-05-04 21:02:29,367 - app.main - INFO - Chat response generated successfully
+2025-05-04 21:03:12,290 - app.main - INFO - Application starting up...
+2025-05-04 21:03:12,291 - app.main - INFO - Base directory: C:\Users\sanjo\OneDrive\Desktop\Codebase\sdpip
+2025-05-04 21:03:12,291 - app.main - INFO - Storage directory: C:\Users\sanjo\OneDrive\Desktop\Codebase\sdpip\storage
+2025-05-04 21:03:26,199 - app.main - INFO - Processing upload for file: Guide to Effective Prompt Engineering for Developers.pdf (ID: 616709e8-a789-4246-b0bf-700c8984074c)
+2025-05-04 21:03:26,200 - app.main - INFO - File saved successfully: 20250504_210326_616709e8.pdf
+2025-05-04 21:03:26,340 - app.main - INFO - Document processed successfully
+2025-05-04 21:03:26,340 - app.main - INFO - Extracted text length: 42796
+2025-05-04 21:03:26,341 - app.services.openai_service - INFO - Sending summary generation request to OpenAI
+2025-05-04 21:03:27,132 - httpx - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-04 21:03:33,985 - app.services.openai_service - INFO - Successfully generated summary
+2025-05-04 21:03:33,989 - app.services.openai_service - INFO - Sending sentiment analysis request to OpenAI
+2025-05-04 21:03:34,251 - httpx - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-04 21:03:37,227 - app.services.openai_service - INFO - Attempting to parse sentiment response
+2025-05-04 21:03:37,228 - app.main - INFO - AI analysis completed
+2025-05-04 21:03:37,228 - app.services.document_storage - INFO - Saving document 616709e8-a789-4246-b0bf-700c8984074c to C:\Users\sanjo\OneDrive\Desktop\Codebase\sdpip\storage\documents\616709e8-a789-4246-b0bf-700c8984074c.json
+2025-05-04 21:03:37,233 - app.services.document_storage - INFO - Successfully saved document 616709e8-a789-4246-b0bf-700c8984074c
+2025-05-04 21:03:37,234 - app.main - INFO - Document 616709e8-a789-4246-b0bf-700c8984074c saved to storage successfully
+2025-05-04 21:03:37,303 - app.services.report_generator - INFO - Report generated successfully: C:\Users\sanjo\OneDrive\Desktop\Codebase\sdpip\reports\report_20250504_210326_616709e8.pdf
+2025-05-04 21:03:37,303 - app.main - INFO - Report generated successfully
+2025-05-04 21:04:37,653 - app.main - INFO - Processing chat request for document: 616709e8-a789-4246-b0bf-700c8984074c
+2025-05-04 21:04:37,654 - app.services.document_storage - INFO - Attempting to retrieve document 616709e8-a789-4246-b0bf-700c8984074c from C:\Users\sanjo\OneDrive\Desktop\Codebase\sdpip\storage\documents\616709e8-a789-4246-b0bf-700c8984074c.json
+2025-05-04 21:04:37,671 - app.services.document_storage - INFO - Successfully retrieved document 616709e8-a789-4246-b0bf-700c8984074c
+2025-05-04 21:04:37,672 - app.main - INFO - Retrieved document context. Text length: 42796
+2025-05-04 21:04:37,673 - app.main - INFO - Generating chat response
+2025-05-04 21:04:37,673 - app.services.openai_service - INFO - Sending chat completion request to OpenAI
+2025-05-04 21:04:38,097 - httpx - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-04 21:04:42,164 - app.services.openai_service - INFO - Received response from OpenAI
+2025-05-04 21:04:42,165 - app.services.openai_service - INFO - Successfully extracted response content
+2025-05-04 21:04:42,165 - app.main - INFO - Chat response generated successfully
+2025-05-04 21:10:54,791 - app.main - INFO - Processing chat request for document: 616709e8-a789-4246-b0bf-700c8984074c
+2025-05-04 21:10:54,792 - app.services.document_storage - INFO - Attempting to retrieve document 616709e8-a789-4246-b0bf-700c8984074c from C:\Users\sanjo\OneDrive\Desktop\Codebase\sdpip\storage\documents\616709e8-a789-4246-b0bf-700c8984074c.json
+2025-05-04 21:10:54,794 - app.services.document_storage - INFO - Successfully retrieved document 616709e8-a789-4246-b0bf-700c8984074c
+2025-05-04 21:10:54,794 - app.main - INFO - Retrieved document context. Text length: 42796
+2025-05-04 21:10:54,795 - app.main - INFO - Generating chat response
+2025-05-04 21:10:54,796 - app.services.openai_service - INFO - Sending chat completion request to OpenAI
+2025-05-04 21:10:55,222 - httpx - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-04 21:10:59,771 - app.services.openai_service - INFO - Received response from OpenAI
+2025-05-04 21:10:59,771 - app.services.openai_service - INFO - Successfully extracted response content
+2025-05-04 21:10:59,772 - app.main - INFO - Chat response generated successfully
+2025-05-04 21:21:38,449 - app.main - INFO - Processing upload for file: Miller & Freund's Probability and Statistics for Engineers.pdf (ID: 92c780c7-07fd-4b84-bcec-8ecc20da2438)
+2025-05-04 21:21:38,464 - app.main - INFO - File saved successfully: 20250504_212138_92c780c7.pdf
+2025-05-04 21:21:43,670 - app.main - INFO - Document processed successfully
+2025-05-04 21:21:43,671 - app.main - INFO - Extracted text length: 1308858
+2025-05-04 21:21:43,672 - app.services.openai_service - INFO - Sending summary generation request to OpenAI
+2025-05-04 21:21:46,017 - httpx - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-04 21:21:48,877 - app.services.openai_service - ERROR - Invalid completion format: ChatCompletion(id=None, choices=None, created=None, model=None, object=None, system_fingerprint=None, usage=None, error={'message': 'This endpoint\'s maximum context length is 16385 tokens. However, you requested about 378683 tokens (378183 of text input, 500 in the output). Please reduce the length of either one, or use the "middle-out" transform to compress your prompt automatically.', 'code': 400, 'metadata': {'provider_name': None}})
+2025-05-04 21:21:48,878 - app.services.openai_service - ERROR - Error generating summary: Invalid completion format from OpenAI
+2025-05-04 21:21:48,879 - app.main - ERROR - Error processing document: Failed to generate summary: Invalid completion format from OpenAI
+2025-05-04 21:22:53,599 - app.main - INFO - Application starting up...
+2025-05-04 21:22:53,599 - app.main - INFO - Base directory: C:\Users\sanjo\OneDrive\Desktop\Codebase\sdpip
+2025-05-04 21:22:53,600 - app.main - INFO - Storage directory: C:\Users\sanjo\OneDrive\Desktop\Codebase\sdpip\storage
+2025-05-04 21:23:30,654 - app.main - INFO - Processing upload for file: Guide to Effective Prompt Engineering for Developers.pdf (ID: ef7e86aa-83aa-41f5-af66-ee4382341766)
+2025-05-04 21:23:30,655 - app.main - INFO - File saved successfully: 20250504_212330_ef7e86aa.pdf
+2025-05-04 21:23:30,791 - app.main - INFO - Document processed successfully
+2025-05-04 21:23:30,792 - app.main - INFO - Extracted text length: 42796
+2025-05-04 21:23:30,793 - app.services.openai_service - INFO - Sending summary generation request to OpenAI
+2025-05-04 21:23:30,795 - app.services.openai_service - INFO - Processing chunk 1 of 2
+2025-05-04 21:23:31,550 - httpx - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-04 21:23:37,025 - app.services.openai_service - INFO - Processing chunk 2 of 2
+2025-05-04 21:23:37,163 - httpx - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-04 21:23:39,753 - httpx - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-04 21:23:42,795 - app.services.openai_service - INFO - Successfully generated summary
+2025-05-04 21:23:42,799 - app.services.openai_service - INFO - Sending sentiment analysis request to OpenAI
+2025-05-04 21:23:42,980 - httpx - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-04 21:23:45,626 - app.services.openai_service - INFO - Attempting to parse sentiment response
+2025-05-04 21:23:45,627 - app.main - INFO - AI analysis completed
+2025-05-04 21:23:45,628 - app.services.document_storage - INFO - Saving document ef7e86aa-83aa-41f5-af66-ee4382341766 to C:\Users\sanjo\OneDrive\Desktop\Codebase\sdpip\storage\documents\ef7e86aa-83aa-41f5-af66-ee4382341766.json
+2025-05-04 21:23:45,633 - app.services.document_storage - INFO - Successfully saved document ef7e86aa-83aa-41f5-af66-ee4382341766
+2025-05-04 21:23:45,633 - app.main - INFO - Document ef7e86aa-83aa-41f5-af66-ee4382341766 saved to storage successfully
+2025-05-04 21:23:45,665 - app.services.report_generator - INFO - Report generated successfully: C:\Users\sanjo\OneDrive\Desktop\Codebase\sdpip\reports\report_20250504_212330_ef7e86aa.pdf
+2025-05-04 21:23:45,666 - app.main - INFO - Report generated successfully
